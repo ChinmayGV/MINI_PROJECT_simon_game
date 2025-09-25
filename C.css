@@ -31,3 +31,9 @@ body {
 .userflash {
   background-color: green;
 }
+.highscore {
+  display: inline-block;
+}
+#highscore {
+  color: black;
+}

@@ -4,7 +4,7 @@ let btns = ["yellow", "green", "blue", "red"];
 let started = false;
 let level = 0;
 let h1 = document.querySelector("h3");
-
+let highScore = 0;
 document.addEventListener("keypress", function () {
   if (!started) {
     console.log("game started ");
@@ -37,6 +37,10 @@ function checkAns(idx) {
       setTimeout(upCall(), 500);
     }
   } else {
+    if (level > highScore) {
+      highScore = level;
+    }
+    highscore.innerText = `Highest Score :${highScore}`;
     h1.innerHTML = `Game over! Your Score was ${level}</b> <br> Press any key to play the game again `;
     document.querySelector("body").style.backgroundColor = "red";
     setTimeout(function () {
@@ -64,3 +68,6 @@ function reset() {
   useSeq = [];
   level = 0;
 }
+
+let highscore = document.querySelector("h2");
+highscore.classList.add("#highscore");
