@@ -59,9 +59,11 @@ Below is a combined preview showing the **Start Screen** and **Game Over Screen*
 │ └── simon_combined.png
 └── README.md
 
+---
+
 🛠️ How to Run
 
-git clone https://github.com/your-username/simon-game.git
+git clone https://github.com/ChinmayGV/MINI_PROJECT_simon_game.git
 cd simon-game
 open index.html # or just double-click the file
 
