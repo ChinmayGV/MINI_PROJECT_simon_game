@@ -34,7 +34,7 @@ Below is a combined preview showing the **Start Screen** and **Game Over Screen*
 3. Click the buttons in the same order  
 4. Each level adds one more color  
 5. Make a mistake → Game Over  
-6. Highest score is saved automatically  
+6. Highest score is saved in JS variable  
 
 ---
 
@@ -45,7 +45,7 @@ Below is a combined preview showing the **Start Screen** and **Game Over Screen*
 | HTML5 | Structure |
 | CSS3 | Styling & animations |
 | JavaScript (ES6) | Game logic |
-| localStorage | Save highest score |
+
 
 ---
 
