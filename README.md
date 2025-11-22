@@ -21,7 +21,6 @@ Includes scoring, highest score saving, animations, and a clean modern UI.
 The image below shows:
 
 Game Start Screen
-
 Game Over Screen
 
 Both combined into one preview.
@@ -72,17 +71,6 @@ cd simon-game
 
 Open index.html in your browser
 
-✨ Future Improvements
-
-Add button sounds
-
-Add difficulty modes
-
-Add light/dark themes
-
-Add animations & glow effects
-
-Add scoreboards
 
 👨‍💻 Author
 
