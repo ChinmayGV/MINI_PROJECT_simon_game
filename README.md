@@ -1,54 +1,56 @@
-🎮 Simon Game – HTML • CSS • JavaScript
+# 🎮 Simon Game – HTML • CSS • JavaScript
 
-A fun and interactive Simon Says Game built using pure HTML, CSS, and JavaScript.
-The game tests your memory as you repeat the growing sequence of flashing colors.
-Includes scoring, highest score saving, animations, and a clean modern UI.
+A fun and interactive Simon Says memory game built using pure HTML, CSS, and JavaScript.  
+Repeat the flashing color sequence correctly to level up! Each round gets harder as the sequence grows.
 
-🚀 Features
+---
 
-✔ Pure HTML + CSS + JavaScript
-✔ Random color sequence generator
-✔ Flash animations for tiles
-✔ User click detection
-✔ Level progression
-✔ Game over + restart system
-✔ Highest score saved in localStorage
-✔ Responsive layout
-✔ Clean UI with custom colors
+## 🚀 Features
 
-📸 Game Preview
+- Pure HTML, CSS, and JavaScript
+- Random color sequence generator
+- Flash animations
+- User click detection
+- Level progression
+- Game over + restart system
+- Highest Score saved with localStorage
+- Responsive layout
+- Clean UI with modern color blocks
 
-The image below shows:
+---
 
-Game Start Screen
-Game Over Screen
+## 📸 Game Preview
 
-Both combined into one preview.
+Below is a combined preview showing the **Start Screen** and **Game Over Screen**:
 
 ![Simon Game Preview](assets/screenshots/simon_combined.png)
 
-🎯 How the Game Works
+---
 
-Press any key → game starts
+## 🎯 How the Game Works
 
-One random color flashes
+1. Press any key to start the game  
+2. Watch the flashing color pattern  
+3. Click the buttons in the same order  
+4. Each level adds one more color  
+5. Make a mistake → Game Over  
+6. Highest score is saved automatically  
 
-You must click the same color
+---
 
-Each next level adds one more color to the sequence
+## 🧠 Tech Stack
 
-If you make a mistake → Game Over
+| Technology | Purpose |
+|-----------|---------|
+| HTML5 | Structure |
+| CSS3 | Styling & animations |
+| JavaScript (ES6) | Game logic |
+| localStorage | Save highest score |
 
-Highest Score updates automatically
+---
 
-🧠 Tech Stack
-Technology Purpose
-HTML5 Game structure
-CSS3 Styling, colors, animations
-JavaScript (ES6) Game logic & events
-localStorage Save highest score
+## 📁 Project Structure
 
-📁 Project Structure
 📦 Simon-Game
 ├── index.html
 ├── style.css
@@ -60,15 +62,12 @@ localStorage Save highest score
 🛠️ How to Run
 
 # Clone the repo
-
 git clone https://github.com/your-username/simon-game.git
 
 # Go inside project folder
-
 cd simon-game
 
 # Run the game
-
 Open index.html in your browser
 
 
