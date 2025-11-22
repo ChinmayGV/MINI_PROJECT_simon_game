@@ -61,20 +61,18 @@ Below is a combined preview showing the **Start Screen** and **Game Over Screen*
 
 🛠️ How to Run
 
-# Clone the repo
 git clone https://github.com/your-username/simon-game.git
-
-# Go inside project folder
 cd simon-game
+open index.html # or just double-click the file
 
-# Run the game
-Open index.html in your browser
-
+---
 
 👨‍💻 Author
 
 Chinmay G
 Frontend developer exploring interactive JS-based games.
+
+---
 
 ⭐ Support The Project
 
