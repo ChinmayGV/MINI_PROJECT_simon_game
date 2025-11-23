@@ -48,18 +48,6 @@ Below is a combined preview showing the **Start Screen** and **Game Over Screen*
 
 ---
 
-## 📁 Project Structure
-
-📦 Simon-Game
-├── index.html
-├── style.css
-├── app.js
-├── assets/
-│ └── simon_combined.png
-└── README.md
-
----
-
 🛠️ How to Run
 
   git clone https://github.com/ChinmayGV/MINI_PROJECT_simon_game.git    
