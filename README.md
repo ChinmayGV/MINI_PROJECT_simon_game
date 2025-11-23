@@ -8,8 +8,7 @@ Repeat the flashing color sequence correctly to level up! Each round gets harder
 ## 🚀 Features
 
 - Pure HTML, CSS, and JavaScript
-- Random color sequence generator
-- Flash animations
+- Random color sequence generator  
 - User click detection
 - Level progression
 - Game over + restart system
@@ -63,25 +62,7 @@ Below is a combined preview showing the **Start Screen** and **Game Over Screen*
 
 🛠️ How to Run
 
-  git clone https://github.com/ChinmayGV/MINI_PROJECT_simon_game.git  
-  cd simon-game  
+  git clone https://github.com/ChinmayGV/MINI_PROJECT_simon_game.git    
   open index.html # or just double-click the file
 
----
 
-👨‍💻 Author
-
-Chinmay G
-Frontend developer exploring interactive JS-based games.
-
----
-
-⭐ Support The Project
-
-If you like this game:
-
-⭐ Star the repo
-
-🍴 Fork it
-
-📝 Submit suggestions
